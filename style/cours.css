@@ -1,3 +1,7 @@
+@font-face {
+	font-family: FE THE PROFESSIONAL;
+	src: url("../fonts/FETHEPROFESSIONAL.ttf") format("truetype");
+}
 .body{
 	display: flex;
     flex-direction: column;
