@@ -1,0 +1,163 @@
+@font-face {
+	font-family: FE THE PROFESSIONAL;
+	src: url("../fonts/FETHEPROFESSIONAL.ttf") format("truetype");
+}
+html,
+body {
+	margin: 0;
+	padding: 0;
+	font-family:  Open Sans,  sans-serif;
+}
+.programm{
+	height: 100vh;
+}
+.headline_programm{
+	text-align: center;
+	font-family: FE THE PROFESSIONAL Regular;
+    font-size: 250%;	
+}
+.content{
+   text-align: center;
+    font-size: 250%;
+}
+.free_d{
+	width: 66%;
+	border: 3px solid;
+	padding: 6%;
+	margin: auto;
+	height: 63vh;
+	border-radius: 12px;
+	margin-bottom: 5%;
+}
+.free_d > p{
+	text-align: left;
+    margin-left: 13%;
+    font-family: Open Sans;
+    font-size: 133%;
+}
+.free_d > h2 {
+	font-family: FE THE PROFESSIONAL Regular
+}
+.python{
+	width: 66%;
+	border: 3px solid;
+	padding: 6%;
+	margin: auto;
+	height: 63vh;
+	border-radius: 12px;
+	margin-bottom: 5%;
+}
+.python > p{
+	text-align: left;
+    margin-left: 13%;
+    font-family: Open Sans;
+    font-size: 133%;
+    margin-bottom: 38%;
+}
+.python > h2 {
+	font-family: FE THE PROFESSIONAL Regular;
+	font-size: 140%;
+}
+.BPLA{
+	width: 66%;
+	border: 3px solid;
+	padding: 6%;
+	margin: auto;
+	height: 63vh;
+	border-radius: 12px;
+	margin-bottom: 5%;
+}
+.BPLA > p{
+    text-align: left;
+    margin-left: 13%;
+    font-family: Open Sans;
+    font-size: 133%;
+    margin-bottom: 35%;
+}
+.BPLA > h2 {
+	font-family: FE THE PROFESSIONAL Regular
+}
+.media{
+	width: 66%;
+	border: 3px solid;
+	padding: 6%;
+	margin: auto;
+	height: 63vh;
+	border-radius: 12px;
+	margin-bottom: 5%;
+}
+.media > p{
+	text-align: left;
+    margin-left: 13%;
+    font-family: Open Sans;
+    font-size: 133%;
+}
+.media > h2 {
+	font-family: FE THE PROFESSIONAL Regular
+}
+.borderbotthorizontal_1{
+	border-bottom: 1px solid;
+	width: 42%;
+	margin-left: 18%;
+}
+.title{
+	width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 5%;
+    margin-bottom: 7%;	
+}
+.title > h2{
+	font-family: FE THE PROFESSIONAL Regular;
+    font-size: 250%;
+    margin-top: 8%;	
+}
+.first_doc{
+	height: 3vh;
+    border: 2px solid #89C627;
+    border-radius: 12px;
+    width: 77%;
+    margin: auto;
+    padding: 4%;
+    margin-bottom: 5%;
+}
+.first_doc > p{
+	font-size: 182%;
+    text-align: right;
+    margin-top: -6%;
+    border-left: 2px solid #89C627;
+    width: 91%;
+    margin-left: 11%;
+}
+.second_doc{
+	height: 3vh;
+    border: 2px solid #89C627;
+    border-radius: 12px;
+    width: 77%;
+    margin: auto;
+    padding: 4%;
+    margin-bottom: 5%;
+}
+.second_doc > p{
+	font-size: 182%;
+    text-align: right;
+    margin-top: -6%;
+    border-left: 2px solid #89C627;
+    width: 91%;
+    margin-left: 11%;
+}
+.footer_all{
+	height: 100vh;
+	background: silver;
+}
+.social_networks_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 55%;
+}
+.logo_footer{
+    margin: 5%;
+    width: 90%;
+}

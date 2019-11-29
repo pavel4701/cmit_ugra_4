@@ -1,0 +1,114 @@
+.body{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15%;
+}
+.body > h2{
+	font-size: 250%;
+	font-family: FE THE PROFESSIONAL;
+	text-align: center;
+}
+.section_free_d{
+	display: flex;
+	flex-direction: column;
+    width: 85%;
+    margin: auto;
+    border: 2px solid;
+    border-radius: 12px;
+    background: url(../img/cours/background/back_3d.png) no-repeat;
+    background-position: 50%; 
+    padding: 3%;
+    margin-bottom: 7%;
+    font-size: 250%;
+    font-family: Open Sans;  
+}
+.section_python{
+	display: flex;
+	flex-direction: column;
+    width: 85%;
+    margin: auto;
+    border: 2px solid;
+    border-radius: 12px;
+    background: url(../img/cours/background/back_python.png) no-repeat;
+    background-position: 50%; 
+    padding: 3%;
+    margin-bottom: 7%;
+    font-size: 250%;
+    font-family: Open Sans;  
+}
+.section_BPLA{
+	display: flex;
+	flex-direction: column;
+    width: 85%;
+    margin: auto;
+    border: 2px solid;
+    border-radius: 12px;
+    background: url(../img/cours/background/back_BPLA.png) no-repeat;
+    background-position: 50%; 
+    padding: 3%;
+    margin-bottom: 7%;
+    font-size: 250%;
+    font-family: Open Sans;  
+}
+.section_media{
+	display: flex;
+	flex-direction: column;
+    width: 85%;
+    margin: auto;
+    border: 2px solid;
+    border-radius: 12px;
+    background: url(../img/cours/background/back_media.png) no-repeat;
+    background-position: 50%; 
+    padding: 3%;
+    margin-bottom: 7%;
+    font-size: 250%;
+    font-family: Open Sans;  
+}
+.section_free_d> p{
+	text-align: center;
+}
+.section_python > p{
+	text-align: center;
+}
+.section_BPLA > p{
+	text-align: center;
+}
+.section_media > p{
+	text-align: center;
+}
+.borderbotthorizontal{
+	margin: auto;
+	border-bottom: 3px solid;
+	width: 80%;
+	height: 5px;
+}
+.section_2{
+	display: flex;
+	flex-direction: column;
+    width: 85%;
+    margin: auto;
+    border: 2px solid;
+    border-radius: 12px;
+    background-position: 50%; 
+    padding: 3%;
+}
+.element{
+	display: flex;
+	flex-direction: row;
+
+}
+.p_1{
+	font-family: FE THE PROFESSIONAL;
+	font-size: 250%;
+	width: 29%;
+}
+.p_2{
+	font-family: Open Sans;
+    font-size: 250%;
+    margin-left: 12%;
+    border: solid #B8E96A;
+    border-radius: 12px;
+    padding: 1%;
+    background: #B8E96A;
+}

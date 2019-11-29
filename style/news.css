@@ -1,0 +1,60 @@
+@font-face {
+	font-family: FE THE PROFESSIONAL;
+	src: url("../fonts/FETHEPROFESSIONAL.ttf") format("truetype");
+}
+html,
+body {
+	margin: 0;
+	padding: 0;
+	font-family:  Open Sans,  sans-serif;
+}
+.news{
+	height: 100vh;
+	background-color: #E8E8E8;
+}
+.headline_news{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: FE THE PROFESSIONAL Regular;
+    font-size: 250%;
+}
+.news_foto{
+	margin-left: 2%;
+}
+.foto{
+	margin-top: 16%;
+}
+.fone{
+	margin-bottom: 27%;
+    margin-top: -32%
+}
+.text_1{
+	width: 50%;
+    margin-left: 5%;
+    margin-top: -58%;
+    color: white;
+    font-size: 201%
+}
+.text_2{
+    width: 61%;
+    margin-left: 5%;
+    margin-top: -2%;
+    color: white;
+    font-size: 135%;
+}
+.podrobnee > a {
+  color: white;
+  text-decoration: none
+}
+.podrobnee{
+	text-decoration: none;
+    margin-left: 72%;
+    margin-top: -10%;
+    color: white;
+    font-size: 158%;
+}
+.free{
+	margin-left: 40%;
+	margin-top: 38%;
+}
