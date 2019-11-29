@@ -27,6 +27,7 @@ body {
 .about_cmit_text{	  	
 	text-align: center;
 	font-size: 345%;
+	margin: auto;
 }
 .about_cmit_footer{
     height: 100vh;
